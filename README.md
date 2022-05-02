@@ -1,4 +1,4 @@
-# wikivis
+# Vue Demo
 
 `pagckage.json`, `package-lock.json`改项目名称.
 
